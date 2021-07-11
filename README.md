@@ -1,5 +1,5 @@
 # Kafka-Study
-2021 여름방학 YBIGTA Kafka Study
+### 2021 여름방학 YBIGTA Kafka Study
 
 강의: https://www.youtube.com/watch?v=waw0XXNX-uQ&list=PL3Re5Ri5rZmkY46j6WcJXQYRlDRZSUQ1j
 
